@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite / build
+/dist
+/.vercel
+/.netlify
+
+# local env files
+.env
+.env.*
+
+
+
+g macOS finder
+ig
+.AppleDouble
+.LSOverride
