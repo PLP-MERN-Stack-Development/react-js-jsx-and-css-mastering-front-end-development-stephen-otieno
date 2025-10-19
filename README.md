@@ -85,7 +85,6 @@ src/
 
 ### Datamuse Dictionary API
 > Endpoint: https://api.datamuse.com/words?sp=WORD&md=d&max=1
-> Used to fetch definitions for a selected word
 
 ### Author
 ***Stemiot Softwares***
